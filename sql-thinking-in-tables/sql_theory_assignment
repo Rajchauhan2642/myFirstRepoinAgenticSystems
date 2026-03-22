@@ -1,0 +1,32 @@
+1. Why Databases are Important in Real-World AI Systems
+
+Databases are essential in real-world AI systems because they provide a structured way to store, manage, and retrieve large amounts of data. AI models rely heavily on data for training and making predictions, and databases ensure that this data is organized and easily accessible.
+
+They enable efficient data storage and fast retrieval using queries, which helps AI systems process only relevant information. Databases also maintain data integrity and accuracy by applying constraints, ensuring reliable inputs for AI models.
+
+2. Describe the Relational Database Mental Model 
+
+The relational database mental model is a way of organizing data into structured formats using tables. In this model, data is stored in the form of relations (tables), where each table represents a single real-world entity such as a student, employee, or product.
+
+Each table consists of rows and columns. Rows represent individual entries of the entity, while columns represent the properties or characteristics of that entity.
+
+3. Explain the concept of a Primary Key (3 Marks)
+
+A primary key is a column or a set of columns in a table that uniquely identifies each record (row) in that table. It ensures that no two rows have the same value and that each record can be accessed uniquely.
+
+4. What is a Database Schema
+
+A database schema is the overall structure or blueprint of a database that defines how data is organized. It describes the tables, columns, data types, and relationships between different tables in the database.
+
+The schema specifies:
+- The names of tables
+- The fields (columns) in each table
+- Data types of each field
+- Keys (primary and foreign keys)
+- Relationships between tables
+
+5. Relationships Between Tables in Relational Databases
+
+In relational databases, relationships between tables define how data in one table is connected to data in another table. These relationships are established using keys, mainly primary keys and foreign keys.
+
+Relationships help in organizing data efficiently, reducing redundancy, and maintaining consistency across the database.
